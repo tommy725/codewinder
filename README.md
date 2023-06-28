@@ -22,7 +22,7 @@ Notes:
 * without the Bing Search key, the search will use the Web Browser tool for searches, which is less efficient.
 * Supabase is experimental to add long-term memory to the autonomous agent.
 
-### Running the Server
+### Running the Server 
 
 Then, run the development server:
 
