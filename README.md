@@ -23,7 +23,7 @@ Notes:
 * Supabase is experimental to add long-term memory to the autonomous agent.
 
 ### Running the Server 
-
+ 
 Then, run the development server:
 
 ```bash
